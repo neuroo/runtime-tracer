@@ -1,0 +1,1 @@
+pin -pid 2972 -mt -t "C:\projects\dyna-trace\tracer\tracer.dll" -i test_app -d false -e 0x430000 -c true
